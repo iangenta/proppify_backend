@@ -1,4 +1,4 @@
-# Proppyfy Backend
+# Proppify Backend
 
 Proppyfy es una plataforma de gestión de propiedades que permite a los usuarios gestionar, listar, y alquilar propiedades de manera eficiente. Este repositorio contiene el backend de la aplicación, construido con Django y Django REST Framework (DRF).
 
